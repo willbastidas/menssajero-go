@@ -30,6 +30,9 @@ export const Styles = StyleSheet.create({
         borderRadius: 10,
         borderWidth: 1,
       },
+      textoDelTab: {
+        textAlign: 'center',
+      },
       textoBoton:{
         fontSize: 18,
         textAlign: 'center',
@@ -58,5 +61,8 @@ export const Styles = StyleSheet.create({
         borderBottomColor: colores.gray,
 
       },
-
+      map: {
+        width: '100%',
+        height: '100%',
+      },
 });
