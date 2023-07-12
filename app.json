@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "menssajero-go",
+    "slug": "menssajero-go",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "menssajero-go"
+}
